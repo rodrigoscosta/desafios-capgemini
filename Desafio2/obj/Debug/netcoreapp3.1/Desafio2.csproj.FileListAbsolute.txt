@@ -1,0 +1,13 @@
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.csprojAssemblyReference.cache
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.AssemblyInfoInputs.cache
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.AssemblyInfo.cs
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.exe
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.deps.json
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.runtimeconfig.json
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.runtimeconfig.dev.json
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.dll
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\bin\Debug\netcoreapp3.1\Desafio2.pdb
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.dll
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.pdb
+C:\Users\ab1214210\Documents\Desafios Capgemini\Desafio2\obj\Debug\netcoreapp3.1\Desafio2.genruntimeconfig.cache
