@@ -14,5 +14,5 @@ Há duas maneiras de baixar o projeto:
 Obs: para esta opção, é necessário possuir o <a href="https://git-scm.com/">Git</a> instalado na máquina.
 
 ## Executando o projeto
-Com o projeto baixado, navegue entre as pastas e digite o comando dotnet run, via terminal. <br>
+Com o projeto baixado, navegue entre as pastas e digite o comando: dotnet run, via terminal. <br>
 Obs: para executar o projeto, também é necessário ter instalado a <a href="https://dotnet.microsoft.com/en-us/download">Runtime</a> do .NET no computador.
